@@ -33,3 +33,16 @@ language-provider.tsx and language-selector.tsx
 recaptcha.tsx for bot prevention
 Frontend logic is now modular, responsive, and ready to be integrated with backend and Ethereum logic
 
+Checkpoint 4 – Tasks Completed:
+Integrated essential custom React hooks:
+use-admin-auth, use-citizens, use-language, use-mobile, and use-toast
+Added reusable blockchain and client utilities in lib/:
+blockchain.ts for Ethereum functions
+supabaseClient.ts for database interaction
+queryClient.ts for React Query setup
+utils.ts for general helpers
+Created all core frontend pages:
+Admin Dashboard & Login
+Public Portal & Voting Portal
+Not Found / 404 fallback
+Frontend now fully structured and logic-ready

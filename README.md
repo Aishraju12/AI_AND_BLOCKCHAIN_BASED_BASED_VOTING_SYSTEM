@@ -20,3 +20,16 @@ FREE_TECHNOLOGIES_INTEGRATED.md
 Documented the list of integrated technologies
 Described setup steps and project overview in README.md
 Committed all above files as part of second milestone
+
+Checkpoint 3 – Tasks Completed:
+Completed and committed all key frontend components:
+admin/ – components for admin login and dashboard
+public/ – user-side components
+ui/ – reusable UI elements
+voting/ – core voting interface
+Added logic components:
+age-verification.tsx
+language-provider.tsx and language-selector.tsx
+recaptcha.tsx for bot prevention
+Frontend logic is now modular, responsive, and ready to be integrated with backend and Ethereum logic
+

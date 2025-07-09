@@ -80,3 +80,13 @@ Checkpoint 3  Day 2 -Tasks Completed:
  User login, voting, recaptcha, and Ethereum hash generation are working
  Data is stored in Supabase tables created from migrations
  Environment setup with .env variables is complete and secure
+
+ CHECKPOINT 4  Day 2 -Tasks Completed:
+Deployment Achieved:
+Project successfully deployed on Render
+Connected to Supabase database in production
+Frontend and backend build processes completed
+.env keys securely configured
+Full flow tested live: user registration, voting, hash verification, DB write
+MVP now live and publicly accessible
+

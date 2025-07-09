@@ -54,3 +54,13 @@ Added migration SQL file:
 Included Drizzle/ORM meta data:
 Snapshot and migration journal JSON files under migrations/meta/
 Database now ready for integration with backend APIs and frontend components
+
+Checkpoint 1 DAY 2 – Tasks Completed:
+Created and structured the complete backend in server/ folder
+Integrated database connection logic via db.ts (e.g., Supabase)
+Set up index.ts as the main server entry point
+Defined API routes in routes.ts for admin actions, vote handling, etc.
+Added storage.ts to manage file upload or related storage features
+Configured vite.ts for dev-server support and environment setup
+Prepared the server to handle real-time requests from frontend
+Backend is now ready to be connected with the frontend and database

@@ -72,3 +72,11 @@ languages.ts: language options and display mapping
 schema.ts: shared data types and form validation schema
 voting-utils.ts: helper logic for vote formatting, checks, etc.
 These files improve code reusability, consistency, and scalability across the app
+
+Checkpoint 3  Day 2 -Tasks Completed:
+ Connected Supabase database with the project using db.ts
+ Verified data flow from frontend to Supabase through API calls
+ MVP version of the project is now running successfully on local
+ User login, voting, recaptcha, and Ethereum hash generation are working
+ Data is stored in Supabase tables created from migrations
+ Environment setup with .env variables is complete and secure

@@ -64,3 +64,11 @@ Added storage.ts to manage file upload or related storage features
 Configured vite.ts for dev-server support and environment setup
 Prepared the server to handle real-time requests from frontend
 Backend is now ready to be connected with the frontend and database
+
+Checkpoint 2 Day 2- Tasks Completed:
+Built the complete frontend with the guidance of the wireframe we made on Day 1.
+Added core shared files used by both frontend and backend:
+languages.ts: language options and display mapping
+schema.ts: shared data types and form validation schema
+voting-utils.ts: helper logic for vote formatting, checks, etc.
+These files improve code reusability, consistency, and scalability across the app

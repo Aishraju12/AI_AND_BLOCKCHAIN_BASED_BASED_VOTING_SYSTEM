@@ -1,6 +1,38 @@
 #  AI-Based Biometric Voting System
+(NOTE: ALL THE SUPPORTING DOCUMENTS AND LINKS ARE ATTACHED AT THE END OF THE FILE)
 
 An advanced and secure voting platform using biometric authentication (fingerprint + face recognition) to ensure transparency, speed, and efficiency in elections. Designed to eliminate fraud, reduce manual effort, and deliver real-time results.
+
+##  Features
+
+-  Biometric Verification (Fingerprint + Face)
+-  Fraud-Proof Voting
+-  Vote in Under a Minute
+-  Results in Less Than an Hour
+-  No Booth Slips or Manual ID Checks
+-  Digital Vote Logs for Transparency
+-  Constituency-wise Candidate Upload by Officials
+-  Massive Reduction in Time & Government Resource Usage
+
+##  Why This System?
+
+| Aspect                     | Traditional Voting System                             | AI-Based Voting System                         |
+|----------------------------|--------------------------------------------------------|------------------------------------------------|
+| Booth Setup & Slips        | Takes 2–4 months; manual slip distribution            | Not required                                   |
+| Voting Time per Person     | 4–7 minutes                                           | 45 seconds – 1 minute                          |
+| Result Declaration         | After 1 month                                         | Within an hour                                 |
+| Workforce Usage            | Involves large-scale staff and resource deployment   | Minimal human effort, tech-driven process      |
+| Security & Fraud           | Prone to impersonation, fake votes                   | Tamper-proof via biometric authentication      |
+| Transparency               | Limited traceability                                 | Full digital logs and traceable voting records |
+
+##  Technologies Used
+
+- **Frontend**: React.js / Vite
+- **Backend**: Node.js / Express / FastAPI
+- **Database**: Supabase 
+- **Biometrics**: Fingerprint Sensor, Face Recognition APIs
+- **AI/ML**: Facial match confidence, vote fraud detection
+- **Cloud Deployment**: Render
 
 TEAM NAME - QUANTUM SPARKS Checkpoint 1 – Tasks Completed:
 Folder structure initialized:
@@ -90,3 +122,30 @@ Frontend and backend build processes completed
 Full flow tested live: user registration, voting, hash verification, DB write
 MVP now live and publicly accessible
 
+# The supporting documents/links
+
+1. MVP Link
+
+https://ai-and-blockchain-based-voting-system.onrender.com
+
+2. MVP Explanation Video
+
+https://drive.google.com/file/d/1L_9yEL8PyceOv2WMLpPFXcx4xERC0wAn/view?usp=drivesdk
+
+3. Wireframes
+
+ Public/Voting Portal - https://app.visily.ai/projects/0b3689d0-b35e-438a-833a-73453880ec7c/boards/1951334/presenter?play-mode=Prototype
+
+Admin Portal - https://app.visily.ai/projects/0e7c2689-d8f0-4f43-a9a2-e263624fd2f0/boards/1951414/presenter?play-mode=Prototype
+
+4. Prototype Performance Report
+
+https://drive.google.com/file/d/1ZukQYZ31XYxDFkGVZzrGWij2J8tF8HZm/view?usp=drivesdk
+
+5. MVP SNAPSHOTS
+
+https://drive.google.com/file/d/1Zw6YqnTxGpK4P5h7PzorbkZVfCuSCHH0/view?usp=drivesdk
+
+6. PPT LINK
+
+https://docs.google.com/presentation/d/1rbye9CFBkj_mtHNsgDT-bd49GE2J_itX/edit?usp=sharing&ouid=105230393775856530307&rtpof=true&sd=true
